@@ -1,0 +1,4 @@
+,Unnamed: 0.1,classifier,train_score,test_score
+0,0.0,Logistic Regression,0.997402,0.9751643671605392
+1,0.0,Decision Tree,1.0,0.8974502203300186
+0,,RandomForest,1.0,0.9675940182920177
